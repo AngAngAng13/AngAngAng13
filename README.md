@@ -1,5 +1,5 @@
 
-<img src=""/>
+
 <h1 align="center">Hi 👋, I'm Nguyen Tuan An</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam</h3>
